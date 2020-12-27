@@ -7,7 +7,7 @@ on:
 
 defaults:
   run:
-    working-directory: container
+    working-directory: packages/container
 
 jobs:
   build:
